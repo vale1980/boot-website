@@ -1,0 +1,85 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+#n-opciones{
+    margin-right: 50px;
+}
+#logo h1{
+    color: dodgerblue;
+    font-size: 30px;
+}
+#logo {
+    margin-left: 30px;
+}
+.fondo {
+    height: 100%;
+    width: 100%;
+
+}
+.nav-item{
+    font-size:20px ;
+}
+#card-servicios
+{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+#C1{
+    margin-left: 30px;
+
+}
+#C3{
+    margin-right: 30px;
+}
+#t-servicios{
+
+    margin-top: 60px;
+}
+
+.titulos
+{
+    text-align: center;
+    color: #0069d9;
+}
+#sec-cuerpo
+{
+    display:flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+#p-nosotros
+{
+    padding: 20px;
+}
+#p-nosotros p
+{
+    padding: 20px;
+    text-align: justify;
+}
+#sec-nosotros{
+    margin-top: 60px;
+    align-items: center;
+}
+#sec-contáctenos
+{
+    align-items: center;
+    position: absolute;
+    width: 100%;
+}
+#log-p1{
+    display:flex;
+    justify-content:center;
+}
+#log-p2{
+    display:flex;
+    justify-content:center;
+}
+.logo
+{
+    padding: 60px;
+}
+#p-contactenos p{
+    text-align: center;
+}
